@@ -3,9 +3,7 @@
 > Software Engineer · Full-Stack Developer · Founder of Lumora Studios · Sri Lanka 🇱🇰
 
 I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems from database to UI.
-
 ---
-
 ### What I work with
 
 **Languages & Tools**
@@ -38,7 +36,7 @@ const dulaksha = {
     location:     "Sri Lanka 🇱🇰",
     role:         "Software Engineer · Full-Stack Developer",
  
-    code:         ["JavaScript", "Java", "PHP", "Python", "C/C++", "CSS/SCSS"],
+    code:         ["JavaScript", "Java", "PHP", "Python", "CSS"],
  
     askMeAbout:   ["web dev", "app dev", "software architecture",
                    "database design", "API design", "tech in general"],
@@ -72,15 +70,6 @@ const dulaksha = {
     funFact:        "I shoot photos when I'm not writing code 📸",
 };
 ```
- 
----
-
-### Currently exploring
-
-- Microservices architecture and service decomposition
-- React Server Components and modern rendering patterns
-- Clean architecture principles in Java/Spring Boot
-- API versioning, rate limiting, and gateway patterns
 
 ---
 
