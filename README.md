@@ -1,75 +1,69 @@
-<!-- Dulaksha Rajapaksha — GitHub Profile README -->
+# Dulaksha Rajapaksha
 
-<div align="center">
+> Software Engineer · Full-Stack Developer · Sri Lanka 🇱🇰
 
-# Hi, I'm Dulaksha Rajapaksha 👋
+I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems — from database to UI.
 
-**Software Engineer · Full-Stack Developer · Sri Lanka 🇱🇰**
+---
 
-*Building modern, scalable, and user-centered applications.*
+### 🧰 What I work with
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulaksha-rajapaksha)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dulakshaaa)
+**Languages**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frameworks & Runtimes**
+
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Databases**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+### 📊 GitHub Activity
+
+![Dulaksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulakshaaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&hide=contribs)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulakshaaa&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulakshaaa&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&stroke=30363d)
+
+---
+
+### 🗂 What I'm building around
+
+```
+Full-Stack Development    ████████████████████░░  end-to-end apps
+Software Architecture     ████████████████░░░░░░  system & API design
+Database Design           ████████████████░░░░░░  relational + NoSQL
+DevOps & Tooling          ███████████░░░░░░░░░░░  CI/CD, deployment
+```
+
+---
+
+### 🔍 Currently exploring
+
+- Microservices architecture and service decomposition
+- React Server Components and modern rendering patterns
+- Clean architecture principles in Java/Spring Boot
+- API versioning, rate limiting, and gateway patterns
+
+---
+
+### 📫 Reach me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulaksha-rajapaksha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
-</div>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
 
-## About
-
-I'm a passionate software engineer focused on full-stack development and software architecture. I combine technical problem-solving with creativity to build impactful digital experiences — clean, maintainable code is at the core of everything I do.
-
-- 🔭 Working on **scalable full-stack applications**
-- 🏗️ Interested in **software architecture & system design**
-- 📸 Photography and visual storytelling enthusiast
-- 🌱 Always exploring new technologies and engineering practices
-
----
-
-## Tech Stack
-
-<p align="left">
-<img src="https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-| Layer | Technologies |
-|-------|-------------|
-| Frontend | React · JavaScript · HTML · CSS |
-| Backend | Java · Spring Boot · Node.js · PHP · Laravel |
-| Database | MySQL · MongoDB |
-
----
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dulakshaaa&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=0891b2" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulakshaaa&layout=compact&theme=default&hide_border=true&title_color=4f46e5" height="155"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulakshaaa&theme=default&hide_border=true&ring=4f46e5&fire=0891b2&currStreakLabel=059669" />
-</div>
-
----
-
-## Currently Exploring
-
-`#microservices` `#system-design` `#clean-architecture` `#react-server-components` `#api-design` `#ux-engineering` `#devops`
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dulakshaaa&color=4f46e5&style=flat-square" />
-  <br/><br/>
-  <sub><i>"Clean code. Thoughtful architecture. Always building."</i></sub>
-</div>
+<sub>📸 Outside of code — I'm into photography and visual storytelling.</sub>
