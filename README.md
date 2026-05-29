@@ -57,10 +57,10 @@ const dulaksha = {
         databases:        ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "SQLite"],
         mobileApp: {
             native:      ["Java (Android)"],
-            hybrid:      ["React Native", "Expo", "Flutter"],
+            hybrid:      ["React Native", "Flutter"],
         },
         devOps:           ["Git", "GitHub Actions", "Docker"],
-        misc:             ["REST APIs", "Socket.IO", "Firebase", "MVC"],
+        misc:             ["REST APIs", "MVC"],
     },
  
     architecture:   ["MVC", "REST", "Microservices",
