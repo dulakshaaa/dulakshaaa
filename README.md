@@ -28,16 +28,6 @@ I build modern, scalable, and user-centered applications. My focus is clean arch
 
 ---
 
-### 📊 GitHub Activity
-
-![Dulaksha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dulakshaaa&show_icons=true&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=3fb950&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulakshaaa&layout=compact&hide_border=true&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulakshaaa&hide_border=true&background=00000000&ring=58a6ff&fire=3fb950&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=6e7681&stroke=30363d)
-
----
-
 ### 🗂 What I'm building around
 
 ```
