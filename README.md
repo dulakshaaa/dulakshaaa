@@ -39,10 +39,8 @@ const dulaksha = {
     role:         "Software Engineer · Full-Stack Developer",
  
     code:         ["JavaScript", "Java", "PHP", "Python", "CSS"],
- 
     askMeAbout:   ["web dev", "app dev", "software architecture",
                    "database design", "API design", "tech in general"],
- 
     technologies: {
         frontEnd: {
             frameworks:  ["React", "Vue.js"],
@@ -62,10 +60,8 @@ const dulaksha = {
         devOps:           ["Git", "GitHub Actions", "Docker"],
         misc:             ["REST APIs", "MVC"],
     },
- 
     architecture:   ["MVC", "REST", "Microservices",
                      "Client-Server", "Single Page Applications"],
- 
     currentlyLearning: ["System Design", "React Server Components",
                         "Clean Architecture", "API Gateway Patterns"],
  
