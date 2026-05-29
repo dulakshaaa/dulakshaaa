@@ -62,9 +62,6 @@ const dulaksha = {
     },
     architecture:   ["MVC", "REST", "Microservices",
                      "Client-Server", "Single Page Applications"],
-    currentlyLearning: ["System Design", "React Server Components",
-                        "Clean Architecture", "API Gateway Patterns"],
- 
     funFact:        "I shoot photos when I'm not writing code 📸",
 };
 ```
