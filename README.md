@@ -2,14 +2,14 @@
 
 <div align="center">
 
-# Hi, I'm Dulaksha Rajapaksha
+# Hi, I'm Dulaksha Rajapaksha 👋
 
 **Software Engineer · Full-Stack Developer · Sri Lanka 🇱🇰**
 
 *Building modern, scalable, and user-centered applications.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulaksha-rajapaksha)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)](https://github.com/dulakshaaa)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4f46e5?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
@@ -43,7 +43,7 @@ I'm a passionate software engineer focused on full-stack development and softwar
 
 | Layer | Technologies |
 |-------|-------------|
-| Frontend | React, JavaScript, HTML, CSS |
+| Frontend | React · JavaScript · HTML · CSS |
 | Backend | Java · Spring Boot · Node.js · PHP · Laravel |
 | Database | MySQL · MongoDB |
 
@@ -52,12 +52,12 @@ I'm a passionate software engineer focused on full-stack development and softwar
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=0891b2" height="155"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default&hide_border=true&title_color=4f46e5" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dulakshaaa&show_icons=true&theme=default&hide_border=true&title_color=4f46e5&icon_color=0891b2" height="155"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dulakshaaa&layout=compact&theme=default&hide_border=true&title_color=4f46e5" height="155"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default&hide_border=true&ring=4f46e5&fire=0891b2&currStreakLabel=059669" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dulakshaaa&theme=default&hide_border=true&ring=4f46e5&fire=0891b2&currStreakLabel=059669" />
 </div>
 
 ---
@@ -69,7 +69,7 @@ I'm a passionate software engineer focused on full-stack development and softwar
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=4f46e5&style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=dulakshaaa&color=4f46e5&style=flat-square" />
   <br/><br/>
   <sub><i>"Clean code. Thoughtful architecture. Always building."</i></sub>
 </div>
