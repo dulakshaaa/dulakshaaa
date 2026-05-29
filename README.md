@@ -6,7 +6,7 @@ I build modern, scalable, and user-centered applications. My focus is clean arch
 
 ---
 
-### 🧰 What I work with
+### What I work with
 
 **Languages**
 
