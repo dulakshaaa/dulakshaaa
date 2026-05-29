@@ -1,10 +1,9 @@
 # Dulaksha Rajapaksha
 
 > Software Engineer · Full-Stack Developer · Sri Lanka 🇱🇰
+> Founder of Lumora Studios
 
 I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems from database to UI.
-
----
 
 ### What I work with
 
