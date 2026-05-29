@@ -30,7 +30,7 @@ Software Architecture     ████████████████░░
 Database Design           ████████████████░░░░░░  relational + NoSQL
 DevOps & Tooling          ███████████░░░░░░░░░░░  CI/CD, deployment
 ```
-### 💻 Details about me
+### About me 
  
 ```javascript
 const dulaksha = {
