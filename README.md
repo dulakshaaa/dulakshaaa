@@ -3,6 +3,8 @@
 > Software Engineer · Full-Stack Developer · Founder of Lumora Studios · Sri Lanka 🇱🇰
 
 I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems from database to UI.
+
+
 ---
 ### What I work with
 
