@@ -2,7 +2,7 @@
 
 > Software Engineer · Full-Stack Developer · Sri Lanka 🇱🇰
 
-I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems — from database to UI.
+I build modern, scalable, and user-centered applications. My focus is clean architecture, thoughtful API design, and shipping products that genuinely solve problems from database to UI.
 
 ---
 
@@ -28,7 +28,7 @@ I build modern, scalable, and user-centered applications. My focus is clean arch
 
 ---
 
-### 🗂 What I'm building around
+### What I'm building around
 
 ```
 Full-Stack Development    ████████████████████░░  end-to-end apps
@@ -39,7 +39,7 @@ DevOps & Tooling          ███████████░░░░░░░
 
 ---
 
-### 🔍 Currently exploring
+### Currently exploring
 
 - Microservices architecture and service decomposition
 - React Server Components and modern rendering patterns
@@ -48,7 +48,7 @@ DevOps & Tooling          ███████████░░░░░░░
 
 ---
 
-### 📫 Reach me
+### Reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dulaksha-rajapaksha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
