@@ -30,7 +30,49 @@ Software Architecture     ████████████████░░
 Database Design           ████████████████░░░░░░  relational + NoSQL
 DevOps & Tooling          ███████████░░░░░░░░░░░  CI/CD, deployment
 ```
-
+### 💻 Details about me
+ 
+```javascript
+const dulaksha = {
+    pronouns:     "He" | "Him",
+    location:     "Sri Lanka 🇱🇰",
+    role:         "Software Engineer · Full-Stack Developer",
+ 
+    code:         ["JavaScript", "Java", "PHP", "Python", "C/C++", "CSS/SCSS"],
+ 
+    askMeAbout:   ["web dev", "app dev", "software architecture",
+                   "database design", "API design", "tech in general"],
+ 
+    technologies: {
+        frontEnd: {
+            frameworks:  ["React", "Vue.js"],
+            libraries:   ["Bootstrap", "Material UI", "SCSS"],
+            markup:      ["HTML5", "CSS3", "XML"],
+        },
+        backEnd: {
+            runtime:     ["Node.js"],
+            frameworks:  ["Express", "Fastify", "Laravel", "Spring Boot"],
+            languages:   ["PHP", "Java", "Python"],
+        },
+        databases:        ["MySQL", "MongoDB", "PostgreSQL", "Firebase", "SQLite"],
+        mobileApp: {
+            native:      ["Java (Android)"],
+            hybrid:      ["React Native", "Expo", "Flutter"],
+        },
+        devOps:           ["Git", "GitHub Actions", "Docker"],
+        misc:             ["REST APIs", "Socket.IO", "Firebase", "MVC"],
+    },
+ 
+    architecture:   ["MVC", "REST", "Microservices",
+                     "Client-Server", "Single Page Applications"],
+ 
+    currentlyLearning: ["System Design", "React Server Components",
+                        "Clean Architecture", "API Gateway Patterns"],
+ 
+    funFact:        "I shoot photos when I'm not writing code 📸",
+};
+```
+ 
 ---
 
 ### Currently exploring
